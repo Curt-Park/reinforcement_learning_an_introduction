@@ -24,16 +24,10 @@ Summary (**in Korean**) and python implementation of 'Reinforcement Learning: An
 ### [3. Finite Markov Decision Processes](https://nbviewer.jupyter.org/github/Curt-Park/reinforcement_learning_an_introduction/blob/master/ch03_finite_markov_decision_processes/finite_markov_decision_processes.ipynb?flush_cache=TRUE)
 
 * [3.1 The Agent-Environment Interface](https://nbviewer.jupyter.org/github/Curt-Park/reinforcement_learning_an_introduction/blob/master/ch03_finite_markov_decision_processes/finite_markov_decision_processes.ipynb?flush_cache=TRUE#3.1-The-Agent-Environment-Interface)
-
 * [3.2 Goals and Rewards](https://nbviewer.jupyter.org/github/Curt-Park/reinforcement_learning_an_introduction/blob/master/ch03_finite_markov_decision_processes/finite_markov_decision_processes.ipynb?flush_cache=TRUE#3.2-Goals-and-Rewards)
-
 * [3.3 Returns and Episodes](https://nbviewer.jupyter.org/github/Curt-Park/reinforcement_learning_an_introduction/blob/master/ch03_finite_markov_decision_processes/finite_markov_decision_processes.ipynb?flush_cache=TRUE#3.3-Returns-and-Episodes)
-
 * [3.4 Unified Notation for Episodic and Continuing Tasks](https://nbviewer.jupyter.org/github/Curt-Park/reinforcement_learning_an_introduction/blob/master/ch03_finite_markov_decision_processes/finite_markov_decision_processes.ipynb?flush_cache=TRUE#3.4-Unified-Notation-for-Episodic-and-Continuing-Tasks)
-
 * [3.5 Policies and Value Functions](https://nbviewer.jupyter.org/github/Curt-Park/reinforcement_learning_an_introduction/blob/master/ch03_finite_markov_decision_processes/finite_markov_decision_processes.ipynb?flush_cache=TRUE#3.5-Policies-and-Value-Functions)
-
 * [3.6 Optimal Policies and Optimal Value Functions](https://nbviewer.jupyter.org/github/Curt-Park/reinforcement_learning_an_introduction/blob/master/ch03_finite_markov_decision_processes/finite_markov_decision_processes.ipynb?flush_cache=TRUE#3.6-Optimal-Policies-and-Optimal-Value-Functions)
-
 * [3.7 Optimality and Approximation](https://nbviewer.jupyter.org/github/Curt-Park/reinforcement_learning_an_introduction/blob/master/ch03_finite_markov_decision_processes/finite_markov_decision_processes.ipynb?flush_cache=TRUE#3.7-Optimality-and-Approximation)
 
